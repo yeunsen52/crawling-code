@@ -1,5 +1,5 @@
-# crawling-code
-# image crawling in google using selenium
+## crawling-code
+## image crawling in google using selenium
 # 가상환경 설정 python -m venv filename
 # 가상환경 실행 cd filename - cd Scripts - activate
 # pip install selenium==3.14.0
