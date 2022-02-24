@@ -1,11 +1,11 @@
-## crawling-code
-## image crawling in google using selenium
-# 가상환경 설정 python -m venv filename
-# 가상환경 실행 cd filename - cd Scripts - activate
-# pip install selenium==3.14.0
-# 가상환경 폴더 안에는 사진을 저장할 폴더,inclde,lib,Scripts,selenium,urllib3,chromedriver.exe
-# python.lnk,python amd,python.exe,google.py(파일생성),pyvenv.cfg 있어야 함
-# (가상환경)c://.../filename/python google.py
+######## crawling-code
+######## image crawling in google using selenium
+######## 가상환경 설정 python -m venv filename
+######## 가상환경 실행 cd filename - cd Scripts - activate
+######## pip install selenium==3.14.0
+######## 가상환경 폴더 안에는 사진을 저장할 폴더,inclde,lib,Scripts,selenium,urllib3,chromedriver.exe
+######## python.lnk,python amd,python.exe,google.py(파일생성),pyvenv.cfg 있어야 함
+######## (가상환경)c://.../filename/python google.py
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
